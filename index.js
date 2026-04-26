@@ -1,1 +1,1 @@
-console.log('welcome to the Git hub coursec');g
+console.log('welcome to the Git hub coursec');
